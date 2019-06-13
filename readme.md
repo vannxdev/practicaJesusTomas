@@ -14,6 +14,8 @@
     ```
     
 3. El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
+    Al hacer `git merge master` me dice que *Already up-to-date*, esto quiere decir que no hay nada que copiar de master. Si se usa el comando `gitk` se abre una ventana en la que aparecen bastantes datos y se puede ver el grafo y donde esta cada rama, como era de esperar, la rama *master* esta por debajo de *styled*.
+    
 4. El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
 5. El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
 6. ¿Qué comando o comandos utilizaste en el paso 25?
