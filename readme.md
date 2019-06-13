@@ -8,6 +8,11 @@
     Si hubiese usado el comando sin poner `--hard`, no habría borrado el trabajo realizado en el working copy.
 
 2. ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
+    Primero he utilizado el comando `git reflog` para poder ver los ids de los comits y buscar al que quiero ir. A continuacion he utilizado el siguiente comando para ir al commit deseado.
+    ```
+    git reset --hard 8d6c435
+    ```
+    
 3. El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 4. El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
 5. El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
