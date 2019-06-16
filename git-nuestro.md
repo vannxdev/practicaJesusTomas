@@ -1,4 +1,4 @@
-Git nuestro
+Oracion al dios de git.
 
 *Git* nuestro que estas en los repos
 
