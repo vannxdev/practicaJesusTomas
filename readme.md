@@ -58,4 +58,4 @@
 
 13. ¿Qué comando o comandos usaste en el punto 33?
 
-    Primero se usa el comando `git reflog` para buscar la id del último commit, copiamos la id y usamos `git reset --hard 171cfc8`
+    Primero se usa el comando `git reflog` para buscar la id del último commit, copiamos la id y usamos `git reset --hard 2073e77`
